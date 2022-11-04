@@ -148,7 +148,7 @@ shape("turtle")
 # goto(20, 20)
 # done()
 
-# Sheelly moved in a straight line towards the coordinates (20, 20). We didn't have to rotate or do anything else! The center or starting place of our turtle appears to be
+# Shelly moved in a straight line towards the coordinates (20, 20). We didn't have to rotate or do anything else! The center or starting place of our turtle appears to be
 # the origin or (0, 0) coordinate. So we tell Shelly to move up 20 units (y), then over another 20 units (x), then to draw a line connecting its new position to its last.
 # With that we can plan more complex drawings with graph paper! I'm going to try and draw a small house see below:
 
